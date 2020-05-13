@@ -1,0 +1,2 @@
+# TemperatureStatus
+Internship project
