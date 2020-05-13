@@ -1,0 +1,99 @@
+{
+	"temperaturedevices": [{
+		"id": 1,
+		"name": "Freezer 1",
+		"value": "-19.0C",
+		"status": "connected",
+		"signal": "full",
+		"battery": "80",
+		"alert": "green"
+	}, {
+		"id": 2,
+		"name": "Freezer 2",
+		"value": "-25.0C",
+		"status": "connected",
+		"signal": "weak",
+		"battery": "35",
+		"alert": "orange"
+	}, { 
+		"id": 2,
+		"name": "Freezer 3",
+		"value": "-25.0C",
+		"status": "connected",
+		"signal": "full",
+		"battery": "84",
+		"alert": "green"
+	}, {
+		"id": 2,
+		"name": "Fridge 1",
+		"value": "-25.0C",
+		"status": "connected",
+		"signal": "full",
+		"battery": "59",
+		"alert": "green"
+	}, {
+		"id": 2,
+		"name": "Freezer 4",
+		"value": "-20.2C",
+		"status": "connected",
+		"signal": "full",
+		"battery": "61",
+		"alert": "green"
+	}, {
+		"id": 2,
+		"name": "Fridge 2",
+		"value": "-21.4C",
+		"status": "connected",
+		"signal": "full",
+		"battery": "100",
+		"alert": "green"
+	}, {
+		"id": 2,
+		"name": "Fridge 3",
+		"value": "-18.7C",
+		"status": "connected",
+		"signal": "weak",
+		"battery": "46",
+		"alert": "orange"
+	}, {
+		"id": 2,
+		"name": "Fridge 4",
+		"value": "-12.6C",
+		"status": "connected",
+		"signal": "full",
+		"battery": "08",
+		"alert": "red"
+	}, {
+		"id": 2,
+		"name": "Fridge 5",
+		"value": "-14.0C",
+		"status": "connected",
+		"signal": "full",
+		"battery": "19",
+		"alert": "red"
+	}, {
+		"id": 2,
+		"name": "Freezer 5",
+		"value": "no data",
+		"status": "disconnected",
+		"signal": "weak",
+		"battery": "60",
+		"alert": "green"
+	}, {
+		"id": 2,
+		"name": "Fridge 6",
+		"value": "no data",
+		"status": "disconnected",
+		"signal": "full",
+		"battery": "70",
+		"alert": "green"
+	}, {
+		"id": 2,
+		"name": "Fridge 6",
+		"value": "-19.0C",
+		"status": "connected",
+		"signal": "weak",
+		"battery": "73",
+		"alert": "green"
+}]
+}
